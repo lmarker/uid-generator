@@ -6,9 +6,9 @@
     <name>UID-Generator</name>
     <description>An unique id generator</description>
 
-    <groupId>com.baidu.fsg</groupId>
+    <groupId>pj.mak.sdu</groupId>
     <artifactId>uid-generator</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.0</version>
     <packaging>jar</packaging>
 
     <!-- Properties -->
